@@ -1,11 +1,15 @@
 import json
 import sys
 import inflect
-from utils import get_v_k, check_type, number_2_word
+from utils import get_v_k, check_type
 import pprint
 
+data_path = sys.argv[1]
+result_path = sys.argv[2]
 
 p = inflect.engine()
+
+
 
 
 def create_json(file_name, output_name):
@@ -30,4 +34,4 @@ def create_json(file_name, output_name):
 
 
 
-create_json(sys.argv[1], sys.argv[2])
+create_json(data_path, result_path)
