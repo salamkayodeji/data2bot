@@ -18,5 +18,5 @@ to launch program run in terminal:
 
 python main.py [data_name] [output_name]
 
-Data must be stored in data directiory in file and out will be stored in the schema directory 
+data_name must be stored in data directiory located in application main directory and output will be stored in the schema directory 
 
