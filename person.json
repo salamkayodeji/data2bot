@@ -1,0 +1,272 @@
+{
+    "key_one": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_two": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_three": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_four": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_five": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_six": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_seven": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eight": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_nine": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_ten": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eleven": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twelve": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirteen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_fourteen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_fifteen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_sixteen": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_seventeen": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eighteen": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_nineteen": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-one": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-two": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-three": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-four": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-five": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-six": {
+        "type": null,
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-seven": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-eight": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-nine": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-one": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-two": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-three": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-four": {
+        "type": null,
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-five": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-six": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-seven": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-eight": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-nine": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_forty": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_forty-one": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_forty-two": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_forty-three": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_forty-four": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_forty-five": {
+        "type": "enum",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}
